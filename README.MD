@@ -49,7 +49,7 @@ The module accepts several input variables, defined in `variables.tf`. Modify th
 
 ## Outputs
 
-After successful deployment, the module will output relevant details, such as the Kubernetes cluster details and application endpoints. You can check outputs using:
+After successful deployment, the module will output the application endpoints. You can check outputs using:
 
 ```sh
 terraform output
