@@ -1,0 +1,4 @@
+# Terraform ignores
+*.tfstate*
+.terraform.lock.hcl
+.terraform/
