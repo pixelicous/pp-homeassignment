@@ -9,7 +9,7 @@ variable "chart_file" {
 }
 
 variable "values_file" {
-  description = "Path to the Helm chart"
+  description = "Path to the Values file"
   type        = string
 }
 
